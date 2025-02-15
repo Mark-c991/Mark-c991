@@ -1,5 +1,4 @@
-## Hi!
-# I'm Mark
+# Hi, I'm Mark!
 
 - Mobile Dev (Flutter)
 - Python
@@ -18,4 +17,4 @@ Tools:
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,figma,ai)](https://skillicons.dev)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mark-c991)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mark-c991)](https://github.com/ryo-ma/github-profile-trophy)
