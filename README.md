@@ -18,3 +18,9 @@ Tools:
 [![My Skills](https://skillicons.dev/icons?i=vscode,figma,ai)](https://skillicons.dev)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mark-c991&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
+
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mark-c991&theme=github_dark) 
+
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mark-c991&theme=github_dark)  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mark-c991&theme=github_dark) 
+
+   ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mark-c991&theme=github_dark)  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mark-c991&theme=github_dark&utcOffset=8) 
