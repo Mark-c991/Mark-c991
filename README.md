@@ -17,4 +17,4 @@ Tools:
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,figma,ai)](https://skillicons.dev)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mark-c991)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mark-c991&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
