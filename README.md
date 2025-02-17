@@ -7,7 +7,7 @@
 # Tech Stack:
 Languages:
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,python,nodejs,js,html,css,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,python,nodejs,js,react,html,css,cpp)](https://skillicons.dev)
 
 Backend:
 
